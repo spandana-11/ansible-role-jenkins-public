@@ -1,0 +1,5 @@
+
+# roles/docker_install/defaults/main.yml
+---
+docker_user: "ubuntu"
+#
